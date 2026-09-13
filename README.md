@@ -1,5 +1,3 @@
-# Chabahar-brine-dispersion-modeling
-3D hydrodynamic modeling of desalination brine dispersion in Chabahar Bay using MIKE 3, including sensitivity analysis, calibration, validation, and scenario assessment.
 # Chabahar Brine Dispersion Modeling
 
 M.Sc. research project conducted at the University of Tehran on the numerical simulation of desalination brine dispersion in Chabahar Bay, Iran.
